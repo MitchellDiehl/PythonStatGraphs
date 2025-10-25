@@ -5,3 +5,4 @@
 ## While still an excellent rotation, Clevelands pitching prowess is much less concise and simple here. While capable of good velocity in general by the gaurdians staff, the cutter/cut fastball philosophy of the organization right now shows 2 sections of velocity in graphing, skewing their averages. Most prominent here is Tanner Bibee at just 91mph. despite this, Tanner regularly reaches up to 95 and 96 mph, showing a strong skew to below average on movement based pitches.
 <img width="1000" height="600" alt="ClevelandPitchingVsLeagueAverageVelo" src="https://github.com/user-attachments/assets/2248ca88-94d0-45ff-8a83-4866891e8ce7" />
 
+### sample size is two weeks, in september. results may vary based on time period.
