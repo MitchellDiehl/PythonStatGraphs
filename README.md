@@ -8,4 +8,7 @@
 ## Playing around i found Boston is pretty high on cutter usage even more so than Cleveland
 <img width="1000" height="600" alt="boston starters" src="https://github.com/user-attachments/assets/419168f9-b53a-4fe7-baeb-bc42d802d459" />
 
+You can see with an added ERA statistic for fastballs, just how effective the starters are being with their fastball. Verifed with the helpful site of statmuse, you can see outlier performances during this month like Early's great september! Early didnt give up a single Eearned run with his fastball that month. Lucas Giolito's fastball lagged behind for him at a 7.00 ERA despite an otherwise fine month. Additionally the dominant Max Fried pitched to the tune of a 1.61 ERA, meaning his fastball vastly underperformed compared to his curveball, where hitters may be waiting for a fastball. Then theres the two Crochet and Bello putting up similar overall months to their fastball era. 
+
+<img width="1200" height="600" alt="BostonStartersSept2025" src="https://github.com/user-attachments/assets/0fb98c3a-75ad-469e-8df2-69f0171f4fdb" />
 ## download my python files and try it out yourself!
